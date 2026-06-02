@@ -7,10 +7,9 @@ A research-based analytical study evaluating how the COVID-19 pandemic altered d
 ## Objective
 To analyze macro-level shifts in digital payment volumes and values during pre-pandemic, mid-pandemic, and post-lockdown horizons, highlighting the acceleration of contactless financial ecosystems.
 
-## Methodologies & Analysis Performed
-* **Comparative Analysis:** Point-in-time growth percentage metrics evaluating transaction scaling.
-* **Graphical Trend Analysis:** Time-series mapping of macro transactional behaviors across economic quarters.
-* **Volume vs. Value Trajectories:** Differentiating velocity growth (transaction count) from deep monetary value distribution.
+| Historical Volume Progression | Aggregate Value Trajectory |
+| :---: | :---: |
+| ![Volume Trend](volume-trend.png.png) | ![Value Trend](value-trend.png.png) |
 
 ---
 
