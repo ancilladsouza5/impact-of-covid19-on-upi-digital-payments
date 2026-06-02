@@ -1,4 +1,4 @@
-# Impact of COVID-19 on UPI Digital Payment Behavior in India
+# Impact of COVID-19 on UPI Digital Payment Behavior in India.
 
 A research-based analytical study evaluating how the COVID-19 pandemic altered digital payment adoption and transactional behavior in India. This project leverages historical Unified Payments Interface (UPI) transaction data, comparative growth calculations, and statistical trend analysis derived directly from National Payments Corporation of India (NPCI) statistics.
 
